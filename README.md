@@ -7,7 +7,7 @@ Additional description of programs and the functions they contain resides in the
 1. ML_functions.py contains a variety of functions used in the other python files.
 2. overfitting.py is for testing to see where overfitting occurs on a given dataset.
 3. permutation_models.py is for creating and training a specified number of models.
-4. permutation_important.py is for measuring the importance of each feature.
+4. permutation_importance.py is for measuring the importance of each feature.
 5. FeatureTable.R is for creating the "FeaturesTableV2.tsv" file. 
 
 ## Cluster scripts
