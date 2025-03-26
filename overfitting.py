@@ -1,4 +1,4 @@
-# Copyright (C) <2022>  <The Ohio State University>       
+# Copyright (C) <2025>  <The Ohio State University>       
 
 # This program is free software: you can redistribute it and/or modify                              
 # it under the terms of the GNU General Public License as published by 
@@ -27,7 +27,6 @@ import matplotlib
 matplotlib.use("pdf")
 import numpy as np
 import matplotlib.pyplot as plt
-import tensorflow as tf
 
 # Creation of feature matrix
 # set place to the absolute path or if the necessary files are in the same

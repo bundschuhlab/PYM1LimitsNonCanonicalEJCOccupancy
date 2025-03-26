@@ -1,4 +1,4 @@
-# Copyright (C) <2022>  <The Ohio State University>       
+# Copyright (C) <2025>  <The Ohio State University>       
 
 # This program is free software: you can redistribute it and/or modify                              
 # it under the terms of the GNU General Public License as published by 
@@ -28,17 +28,20 @@ import tensorflow as tf
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-import matplotlib.cm as cm
 import time
 from sklearn.preprocessing import StandardScaler
 import random
 import re
-import statistics as stats
 import scipy
 import math
 from itertools import combinations
 
 matplotlib.use("pdf")
+
+# import session_info 
+# session_info.show()
+print(np.version.version)
+
 
 
 # Function for taking an annotation file from Ensembl and calculating the gene architecture 
